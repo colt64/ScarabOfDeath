@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Encounters  ",
+      "color": {
+        "a": 1,
+        "rgb": 1914809
+      }
+    },
+    {
+      "query": "path:Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Magic Items\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Maps  ",
+      "color": {
+        "a": 1,
+        "rgb": 16016165
+      }
+    },
+    {
+      "query": "path:Creatures  ",
+      "color": {
+        "a": 1,
+        "rgb": 13041664
+      }
+    },
+    {
+      "query": "path:Items  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.06979166666667,
+  "lineSizeMultiplier": 0.814583333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.604166666666667,
+  "repelStrength": 9.375,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.7132754626224432,
+  "close": true
+}

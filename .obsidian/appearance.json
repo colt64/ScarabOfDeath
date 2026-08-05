@@ -1,0 +1,13 @@
+{
+  "cssTheme": "",
+  "theme": "moonstone",
+  "accentColor": "#800000",
+  "interfaceFontFamily": "Helvetica",
+  "enabledCssSnippets": [
+    "headings",
+    "edition"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 19,
+  "textFontFamily": "Sylfaen"
+}

@@ -1,0 +1,73 @@
+.theme-light {
+	--background-primary: #f2ebe2;
+	--background-secondary: #ebe2da;
+	--h1-color: #5a1409;
+	--h1-accent-color: #e0c67f;
+	--h1-variant: petite-caps;
+	--h1-font: "Arial Narrow", "Arial", sans-serif;
+	--h2-color: #9c3c05;
+	--h3-color: #ce6700;
+	--link-color: #90021c;
+	--accent-color: #800000;
+	--inline-title-font: "Times New Roman", serif;
+	--inline-title-size: 2.2em;
+	--inline-title-variant: petite-caps;
+	--callout-border-width: 3px;
+	--callout-border-color: black;
+	--fancy-border-gradient: linear-gradient(to right, var(--h1-accent-color), transparent) 1; 
+	--canvas-card-label-color: #5a1409;
+	--canvas-background: #544c3f;
+	--canvas-color-1: #0098b2;
+}
+
+.cm-header-1 {
+	font-variant: var(--h1-variant);
+	text-shadow: 2px 2px 4px var(--h1-accent-color);
+
+}
+
+.theme-dark {
+	--link-color: #af4631;
+	--link-external-color: #af4631;
+}
+
+body .cm-line:not(.HyperMD-header) {
+	--text-letter-spacing: -0.05em;
+	letter-spacing: var(--text-letter-spacing);
+}
+
+.callout[data-callout="pdf"] {
+    --callout-color: 250, 200,40;
+	--callout-title-color: #000000;
+}
+
+.HyperMD-header-1 {
+	border-image: var(--fancy-border-gradient);
+    border-bottom: var(--hr-thickness) solid var(--background-modifier-border);
+    padding-bottom: 2px;
+}
+
+
+.cm-header {
+	font-variant: var(--h1-variant);
+}
+
+
+
+
+.callout {
+	border-color: black;
+	border-top: 0px;
+	border-bottom: 0px;
+}
+
+
+
+.inline-title {
+	text-shadow: 2px 2px 0px var(--h1-accent-color);
+	--this-border-gradient: linear-gradient(to right, var(--h1-color), transparent) 2; 
+	border-image: var(--this-border-gradient);
+    border-bottom: 4px solid var(--background-modifier-border);
+    padding-bottom: 2px;
+	
+}

@@ -1,0 +1,1358 @@
+{
+  "mapMarkers": [
+    {
+      "id": "mortimer-level-1",
+      "lastAccessed": 1765081090314,
+      "markers": [
+        {
+          "id": "ID_d91bd9f96bf9",
+          "type": "Info",
+          "loc": [
+            448.9023206188973,
+            93.33809511662429
+          ],
+          "link": "Mortimer's House Level 1#B3 - Latrine",
+          "layer": "%5B%5BMortimer's%20House%20Level%201.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b809f8186b18",
+          "type": "Down",
+          "loc": [
+            375.3632153754964,
+            101.82337649086286
+          ],
+          "link": "Mortimer's House Basement",
+          "layer": "%5B%5BMortimer's%20House%20Level%201.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa0b599bd9a8",
+          "type": "Up",
+          "loc": [
+            436.17439855753946,
+            347.8965363437814
+          ],
+          "link": "Mortimer's House Level 2",
+          "layer": "%5B%5BMortimer's%20House%20Level%201.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89f9eb18faf8",
+          "type": "Info",
+          "loc": [
+            209.90022857784425,
+            179.6051224213831
+          ],
+          "link": "Mortimer's House Level 1#B1 - Atrium",
+          "layer": "%5B%5BMortimer's%20House%20Level%201.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abda3ae92a28",
+          "type": "Info",
+          "loc": [
+            270.7114117598873,
+            514.7737367038067
+          ],
+          "link": "Mortimer's House Level 1#B2 - Dining Room",
+          "layer": "%5B%5BMortimer's%20House%20Level%201.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea4b585a1afa",
+          "type": "Monster",
+          "loc": [
+            205.65758789072495,
+            50.91168824543143
+          ],
+          "link": "specter",
+          "layer": "%5B%5BMortimer's%20House%20Level%201.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "5 specters in chimney",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a4b482be80b",
+          "type": "Monster",
+          "loc": [
+            125.04741483545853,
+            243.24473272817238
+          ],
+          "link": "Mortimito",
+          "layer": "%5B%5BMortimer's%20House%20Level%201.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Mortimo - The Clone Golem",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "nabulee-level-3",
+      "lastAccessed": 1765081090314,
+      "markers": [
+        {
+          "id": "ID_298a49aa3b18",
+          "type": "Down",
+          "loc": [
+            174.078125,
+            573.5
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 2",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a6a7aeb1aa8",
+          "type": "Info",
+          "loc": [
+            108,
+            399
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3#A9 - Music Room",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9101148570755886,
+            -0.3752704293275044
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbb8589bf968",
+          "type": "Info",
+          "loc": [
+            272.078125,
+            164.5
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3#A12 - Bathroom",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a5949bab938",
+          "type": "Important",
+          "loc": [
+            170,
+            513
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3#A7 - Stairwell",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.1701476733828997,
+            -0.5907034535710717
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0989dbea190a",
+          "type": "Info",
+          "loc": [
+            280,
+            293
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3#A10. The Office",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.668329957702124,
+            -0.9729233352935298
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a82b4919d859",
+          "type": "Info",
+          "loc": [
+            92,
+            68
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3#A13 - Master Bedroom",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.15510729393769432,
+            -0.3196748101678741
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bc9ab1afac9",
+          "type": "Treasure",
+          "loc": [
+            54.078125,
+            155.5
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3#Master Bedroom Treasure",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29995afbbab8",
+          "type": "Info",
+          "loc": [
+            289,
+            47
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3#A15 -  Jasmin's room",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.10720651198634755,
+            -1.0041958710708219
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_282b6879492a",
+          "type": "Info",
+          "loc": [
+            101,
+            220
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3#A11 - Lounge",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5018177156807757,
+            -0.35094734594516613
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c899f87ae95a",
+          "type": "Important",
+          "loc": [
+            281,
+            339
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3#Rope Marks",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7732554800717407,
+            -0.9763980614910067
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dadb6bcaeb7a",
+          "type": "Treasure",
+          "loc": [
+            273,
+            418
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3#Office Treasure",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9534536597934737,
+            -0.9486002519111917
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_495948395859",
+          "type": "Info",
+          "loc": [
+            214,
+            33
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3#A14 - Guests’ Room",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.07527265735211636,
+            -0.7435914062600549
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18fafb0bb9b9",
+          "type": "Info",
+          "loc": [
+            271.578125,
+            470.5
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3#A8. Storage Room",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b1b889939f8",
+          "type": "Treasure",
+          "loc": [
+            89.578125,
+            501.5
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3#Music Room Treasure",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Maps/Nabulee's Bazaar/Nabulee’s Bazaar of the Extraordinary Level 3.md"
+      ]
+    },
+    {
+      "id": "nabulee-lvl2",
+      "lastAccessed": 1765081090314,
+      "markers": [
+        {
+          "id": "ID_7bea791a5a6b",
+          "type": "Info",
+          "loc": [
+            -36.60546875,
+            21.5
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 2#A5 - Kitchen",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b3a2968cb2a",
+          "type": "Info",
+          "loc": [
+            -32.85546875,
+            52.5
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 2#A6 - Larder",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4aa9ebc89a3b",
+          "type": "Info",
+          "loc": [
+            -73.10546875,
+            29
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 2#A4 - Dining Room",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa3a0a9a98eb",
+          "type": "Down",
+          "loc": [
+            -55.10546875,
+            146
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 1",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19b8ab38ea3b",
+          "type": "Up",
+          "loc": [
+            -69.5,
+            143.5
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 3",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8954758190327613,
+            0.6847290640394089
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28fa6a6bcbaa",
+          "type": "Treasure",
+          "loc": [
+            -74.25,
+            9
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 2#Dining Room Treasure",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.056162246489859596,
+            0.7315270935960592
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9889fbbaca4a",
+          "type": "Important",
+          "loc": [
+            -47.25,
+            32
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 2#The Crystal Glasses",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2917316692667707,
+            0.7536945812807881
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Maps/Nabulee's Bazaar/Nabulee’s Bazaar of the Extraordinary Level 2.md"
+      ]
+    },
+    {
+      "id": "nabulee-level-1",
+      "lastAccessed": 1765081090314,
+      "markers": [
+        {
+          "id": "ID_19fa2838288a",
+          "type": "Info",
+          "loc": [
+            123,
+            351
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 1#A1 - Lobby",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%201.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8019207760790895,
+            -0.5402120129561823
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5ac81a983a0b",
+          "type": "Info",
+          "loc": [
+            171,
+            109
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 1#A2 - Auction Room",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%201.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2490295287539053,
+            -0.7510264570366437
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9acac8fab839",
+          "type": "Treasure",
+          "loc": [
+            68.58935777509511,
+            273.6503243191939
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 1#Lobby Treasure",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%201.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6252019386106623,
+            -0.30124223602484473
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a886b18580a",
+          "type": "Treasure",
+          "loc": [
+            7.7781745930520225,
+            147.78531726798843
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 1#Auction Room Treasure",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%201.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3376413570274637,
+            -0.034161490683229816
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3808d93b989b",
+          "type": "Down",
+          "loc": [
+            286.7870424884252,
+            106.77312395916867
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Vault Room map",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%201.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99591b3be839",
+          "type": "Up",
+          "loc": [
+            142.53725912636952,
+            579.8275605729689
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 2",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Level%201.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "nabulee-vault-room",
+      "lastAccessed": 1765081090315,
+      "markers": [
+        {
+          "id": "ID_cb293aa9d9fb",
+          "type": "Info",
+          "loc": [
+            128.5,
+            258.5
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Vault Room map#A3 - The Vault Room",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Vault%20Room%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7680130375492544,
+            -0.6037423347672516
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6918d9e97b28",
+          "type": "Up",
+          "loc": [
+            118.7890625,
+            123.5
+          ],
+          "link": "Nabulee’s Bazaar of the Extraordinary Level 1",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Vault%20Room%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b8848c95a0b",
+          "type": "Info",
+          "loc": [
+            141,
+            355
+          ],
+          "link": "Mortimer Yorman",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Vault%20Room%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.0547180979883377,
+            -0.6624721338691243
+          ],
+          "description": "Portal to Nabulee's Vault",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e94a99a87959",
+          "type": "Monster",
+          "loc": [
+            120.7890625,
+            326
+          ],
+          "link": "Mugabu",
+          "layer": "%5B%5BNabulee%E2%80%99s%20Bazaar%20of%20the%20Extraordinary%20Vault%20Room%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Maps/Nabulee's Bazaar/Nabulee’s Bazaar of the Extraordinary Vault Room map.md"
+      ]
+    },
+    {
+      "id": "mortimer-basement",
+      "lastAccessed": 1765081090315,
+      "markers": [
+        {
+          "id": "ID_4b6beb28497a",
+          "type": "Up",
+          "loc": [
+            443.9525731505915,
+            217.78888860545666
+          ],
+          "link": "Mortimer's House Level 1",
+          "layer": "%5B%5BMortimer's%20House%20Basement.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "To Level 1",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6babea094b4b",
+          "type": "Info",
+          "loc": [
+            333.64391528549004,
+            301.2274887854693
+          ],
+          "link": "Mortimer's House Basement#B4 - Kitchen",
+          "layer": "%5B%5BMortimer's%20House%20Basement.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_986a5acbf8e9",
+          "type": "Info",
+          "loc": [
+            485.921875,
+            591
+          ],
+          "link": "Mortimer's House Basement#B6 - Washhouse",
+          "layer": "%5B%5BMortimer's%20House%20Basement.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca7b19aa88ab",
+          "type": "Info",
+          "loc": [
+            202.921875,
+            594
+          ],
+          "link": "Mortimer's House Basement#B5 - Larder",
+          "layer": "%5B%5BMortimer's%20House%20Basement.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_384919eb0b08",
+          "type": "Monster",
+          "loc": [
+            312.54119728445403,
+            599.6265504461924
+          ],
+          "link": "hound wraith",
+          "layer": "%5B%5BMortimer's%20House%20Basement.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6669928258578336,
+            -0.42178299228671257
+          ],
+          "description": "Two Hound Wraiths",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "mortimer-level-3",
+      "lastAccessed": 1765081090315,
+      "markers": [
+        {
+          "id": "ID_0a1ad88be9b8",
+          "type": "Monster",
+          "loc": [
+            222.03152929257595,
+            552.9575028878802
+          ],
+          "link": "clone golem",
+          "layer": "%5B%5BMortimer's%20House%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7089198754972823,
+            -0.3586939083886526
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c918d878b88b",
+          "type": "Monster",
+          "loc": [
+            96.16652224137047,
+            145.6639969244288
+          ],
+          "link": "will-o’-wisp",
+          "layer": "%5B%5BMortimer's%20House%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.18674871400567794,
+            -0.1553578711492253
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3beab8680ab9",
+          "type": "Monster",
+          "loc": [
+            443.24546636940494,
+            141.4213562373095
+          ],
+          "link": "will-o’-wisp",
+          "layer": "%5B%5BMortimer's%20House%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbf83bda98c8",
+          "type": "Monster",
+          "loc": [
+            454.5591748683897,
+            445.47727214752496
+          ],
+          "link": "will-o’-wisp",
+          "layer": "%5B%5BMortimer's%20House%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca9bcadb6aaa",
+          "type": "Monster",
+          "loc": [
+            81.20679440189258,
+            646.2955980045045
+          ],
+          "link": "will-o’-wisp",
+          "layer": "%5B%5BMortimer's%20House%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b6b6928686a",
+          "type": "Down",
+          "loc": [
+            378.84375,
+            131
+          ],
+          "link": "Mortimer's House Level 2",
+          "layer": "%5B%5BMortimer's%20House%20Level%203.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Maps/Mortimer's House/Mortimer's House Level 3.md"
+      ]
+    },
+    {
+      "id": "mortimer-level-2",
+      "lastAccessed": 1765081746227,
+      "markers": [
+        {
+          "id": "ID_d8895a9be87a",
+          "type": "Info",
+          "loc": [
+            441.2346314604057,
+            87.6812408671319
+          ],
+          "link": "Mortimer's House Level 2#B7 - Latrine",
+          "layer": "%5B%5BMortimer's%20House%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.11722091025017635,
+            -0.739086484858301
+          ],
+          "description": "Latrine",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb1be9cb8baa",
+          "type": "Info",
+          "loc": [
+            336.58282784479667,
+            494.9747468305833
+          ],
+          "link": "Mortimer's House Level 2#B9 - Office",
+          "layer": "%5B%5BMortimer's%20House%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6617309449606729,
+            -0.5637903313983194
+          ],
+          "description": "The Office",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_687abb882a2a",
+          "type": "Info",
+          "loc": [
+            200.00073364123256,
+            149.9066376115481
+          ],
+          "link": "Mortimer's House Level 2#B10 - Mortimer's Room",
+          "layer": "%5B%5BMortimer's%20House%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Mortimer's Room",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_394b6b6a4b48",
+          "type": "Up",
+          "loc": [
+            371.1205746883771,
+            113.13708498984761
+          ],
+          "link": "Mortimer's House Level 3",
+          "layer": "%5B%5BMortimer's%20House%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bc9dab84a08",
+          "type": "Down",
+          "loc": [
+            438.4062043356595,
+            315.36962440920024
+          ],
+          "link": "Mortimer's House Level 1",
+          "layer": "%5B%5BMortimer's%20House%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4216171449320859,
+            -0.7343487509810042
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b499b7a6aca",
+          "type": "Info",
+          "loc": [
+            115.9655121145938,
+            486.48946545634476
+          ],
+          "link": "Mortimer's House Level 2#B8 - Library",
+          "layer": "%5B%5BMortimer's%20House%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6503869859042042,
+            -0.19424708896916887
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78c8a9698948",
+          "type": "Info",
+          "loc": [
+            137.77533689681638,
+            154.14927829866738
+          ],
+          "link": "hound wraith",
+          "layer": "%5B%5BMortimer's%20House%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Mortimer's Hound Wraith guards his room at all times",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb89e9da88e9",
+          "type": "Treasure",
+          "loc": [
+            103.8342113998621,
+            89.095454429505
+          ],
+          "link": "Mortimer's House Level 2#Chest",
+          "layer": "%5B%5BMortimer's%20House%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e91b59b82a88",
+          "type": "Treasure",
+          "loc": [
+            174.54488951851687,
+            514.7737367038067
+          ],
+          "link": "Mortimer's House Level 2#Treasure",
+          "layer": "%5B%5BMortimer's%20House%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_484989a9aacb",
+          "type": "Treasure",
+          "loc": [
+            297.5814694449761,
+            591.1412690719537
+          ],
+          "link": "Mortimer's House Level 2#Office Treasure",
+          "layer": "%5B%5BMortimer's%20House%20Level%202.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Down",
+      "iconName": "arrow-down",
+      "color": "#3859ff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Right",
+      "iconName": "arrow-right",
+      "color": "#3859ff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Left",
+      "iconName": "arrow-left",
+      "color": "#3859ff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Monster",
+      "iconName": "spider",
+      "color": "#fe7f48",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Info",
+      "iconName": "info",
+      "color": "#3859ff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Danger",
+      "iconName": "exclamation",
+      "color": "#fe4d4d",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Description",
+      "iconName": "bookmark",
+      "color": "#3859ff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Up",
+      "iconName": "arrow-up",
+      "color": "#3859ff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Treasure",
+      "iconName": "coins",
+      "color": "#ffea00",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Important",
+      "iconName": "exclamation",
+      "color": "#fe9b2a",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
