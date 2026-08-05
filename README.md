@@ -3,7 +3,9 @@ type: folder_note
 ---
 # 𓆣 Scarab Of Death  Campaign Overview 𓆣
 
-A murder mystery adventure for 10th level characters.
+A murder mystery adventure for 10th level characters. 
+
+Converted from the original to be a fully-interactive and cross-linked Obsidian Vault, including interactive maps for the DM, monster stats, and a 100% custom Obsidian theme designed to evoke that RPG book style.
 
 Purchase link: https://www.dmsguild.com/product/224371/Scarab-of-Death?affiliate_id=3782182
 *Please support the original author!*
